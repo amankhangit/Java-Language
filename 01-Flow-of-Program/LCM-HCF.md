@@ -4,9 +4,9 @@ Input num1, num2<br>
 a = num1<br>
 b = num2<br>
 while b != 0<br>
-&emsp;&emsp;&emsp;t = b<br>
-&emsp;&emsp;&emsp;b = a%b<br>
-&emsp;&emsp;&emsp;a = t<br>
+&emsp;&emsp;&ensp;t = b<br>
+&emsp;&emsp;&ensp;b = a%b<br>
+&emsp;&emsp;&ensp;a = t<br>
 exit while<br>
 hcf = a<br>
 output hcf<br>
