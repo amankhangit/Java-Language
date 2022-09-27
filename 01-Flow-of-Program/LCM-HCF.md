@@ -1,15 +1,15 @@
 # Pseudocode
-  Start
-  Input num1, num2
-  a = num1
-  b = num2
-  while b != 0
-	t = b
-	b = a%b
-	a = t
-  exit while
-  hcf = a
-  output hcf
-  lcm = (x*y)/hcf
-  output lcm
-  exit
+Start<br>
+Input num1, num2<br>
+a = num1<br>
+b = num2<br>
+while b != 0<br>
+	t = b<br>
+	b = a%b<br>
+	a = t<br>
+exit while<br>
+hcf = a<br>
+output hcf<br>
+lcm = (x*y)/hcf<br>
+output lcm<br>
+exit<br>
